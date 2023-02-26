@@ -1,0 +1,154 @@
+{
+    "navbar": [
+        {
+            "Home": "Home",
+            "AboutUs": "About Us",
+            "services": [
+                {
+                    "HR Services": [
+                        {
+                            "Talent Acquisition": "Talent Acquisition",
+                            "IT Governance": "IT Governance",
+                            "Digital Transformation": "Digital Transformation",
+                            "Data Management & Security": "Data Management & Security",
+                            "Request API integration": "Request API integration",
+                            "Big Data Manipulation": "Big Data Manipulation"
+                        }
+                    ],
+                    "Digital Services": [
+                        {
+                            "Talent Acquisition": "Talent Acquisition",
+                            "IT Governance": "IT Governance",
+                            "Digital Transformation": "Digital Transformation",
+                            "Data Management & Security": "Data Management & Security",
+                            "Request API integration": "Request API integration",
+                            "Big Data Manipulation": "Big Data Manipulation"
+                        }
+                    ]
+                }
+            ],
+            "Blog": "Blog",
+            "Contact": "Contact"
+        }
+    ],
+    "Testimonials": [
+        {
+            "name": "Jack walters",
+            "designation": "CTO of mindfulness capital",
+            "message": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+        },
+        {
+            "name": "Enagol Ame",
+            "designation": "WP developer",
+            "message": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+        }
+    ],
+    "ourClients": [
+        {
+            "name": "vision",
+            "logo": "https://vault.uicore.co/corporate/wp-content/uploads/sites/10/2022/05/Corporate-logo-1.webp"
+        },
+        {
+            "name": "Hi tech",
+            "logo": "https://vault.uicore.co/corporate/wp-content/uploads/sites/10/2022/05/Corporate-logo-2.webp"
+        },
+        {
+            "name": "site mark",
+            "logo": "https://vault.uicore.co/corporate/wp-content/uploads/sites/10/2022/05/Corporate-logo-3.webp"
+        },
+        {
+            "name": "recharge",
+            "logo": "https://vault.uicore.co/corporate/wp-content/uploads/sites/10/2022/05/Corporate-logo-4.webp"
+        },
+        {
+            "name": "next move",
+            "logo": "https://vault.uicore.co/corporate/wp-content/uploads/sites/10/2022/05/Corporate-logo-5.webp"
+        },
+        {
+            "name": "minty",
+            "logo": "https://vault.uicore.co/corporate/wp-content/uploads/sites/10/2022/05/Corporate-logo-6.webp"
+        }
+    ],
+    "ourSolutions": [
+        {
+            "icon": "",
+            "title": "Talent Acquisition",
+            "description": "Pulvinar proin imperdiet malesuada fermentum. In egestas nec duis fames ultricies tempus."
+        },
+        {
+            "icon": "",
+            "title": "IT Governance",
+            "description": "Vehicula nunc tellus metus, eget. Vel, urna et sed porttitor."
+        },
+        {
+            "icon": "",
+            "title": "Digital Transformation",
+            "description": "Id phasellus ut venenatis eleifend turpis. Blandit ut a vitae, accumsan tristique eu viverra arcu cursus."
+        },
+        {
+            "icon": "",
+            "title": "Data Management & Security",
+            "description": "Risus risus mattis mattis risus portitor. Proin vel, sapien odio arcu, odio."
+        },
+        {
+            "icon": "",
+            "title": "Request API Integration",
+            "description": "Sit tortor nunc aenean faucibus dignissim duis leo orn."
+        },
+        {
+            "icon": "",
+            "title": "Big Data Manipulation",
+            "description": "Diam nam sit nibh felis sed vel at eget. Ut ultrices at montes."
+        }
+    ],
+    "About us": {
+        "title": "Helping you identify your business needs",
+        "description": "Proin in mauris scelerisque risus nisl cras. Non dui nec vitae nunc. Nulla egestas platea urna in. Vitae augue pulvinar vitae, platea risus est. Gravida vel tempor, ut odio est elementum viverra."
+    },
+    "Blog": [
+        {
+            "image": "https://vault.uicore.co/corporate/10-simple-practices-that-will-help-you-get-1-better-every-day/",
+            "title": "Title 1",
+            "designation": "Sales",
+            "date": "SEPTEMBER 13, 2022"
+        },
+        {
+            "image": "https://vault.uicore.co/corporate/10-simple-practices-that-will-help-you-get-1-better-every-day/",
+            "title": "Title 2",
+            "designation": "Marketing",
+            "date": "SEPTEMBER 13, 2022"
+        }
+    ],
+    "Have a project in mind?": "Sit adipiscing duis sed id euismod elit non faucibus pretium. Felis non mattis vitae at. Senectus posuere sed netus sit phasellus et egestas tellus.",
+    "footer": [
+        {
+            "vault": "Creating digital solutions for your business",
+            "Company": [
+                {
+                    "about": "About",
+                    "team": "Team",
+                    "contact": "Contact"
+                }
+            ],
+            "product": [
+                {
+                    "services": "Services",
+                    "pricing": "Pricing"
+                }
+            ],
+            "legal": [
+                {
+                    "terms & condition": "Terms & condition",
+                    "privacy policy": "Privacy Policy"
+                }
+            ],
+            "follow us": [
+                {
+                    "facebook": "Facebook",
+                    "twitter": "Twitter",
+                    "linked in": "Linkedin"
+                }
+            ]
+        }
+    ]
+}
